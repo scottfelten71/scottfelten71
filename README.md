@@ -19,7 +19,7 @@
 
 ## Current Projects
 
-- 🎯 **[UseCaseGen v2.0](https://usecasegen.app:8447)** — AI-powered enterprise use case discovery platform. Multi-model (GPT-4o, Gemini, Claude), V1/V2 schema modes, 8 focus area modules, custom focus builder, auth system, responsive mobile design
+- 🎯 **[UseCaseGen v2.0](https://usecasegen.app:8447)** — GenAI-powered Subindustry Enterprise Use Case Discovery Tool
 - 🏢 **[IAG AI Consulting Platform](https://www.intelligentagentpartners.com/)** — AI consulting business: blog, ROI calc, email automation, Stripe
 - 🔐 **[Credential Management Console](./CREDENTIAL-CONSOLE-DOCS.md)** — Secure Key Vault, OCR, File, Manual Entry, rotation scheduling
 - 🌐 **[Domain Availability Checker](./check_domains.py)** — Namecheap API integration for bulk domain availability checking
