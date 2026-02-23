@@ -19,7 +19,7 @@
 
 ## Current Projects
 
-- 🏢 **[IAG AI Consulting Platform](https://www.intelligentagentpartners.com/)** — Complete AI consulting business system: blog platform, ROI calculator, email automation, Stripe payments
+- 🏢 **[IAG AI Consulting Platform](https://www.intelligentagentpartners.com/)** — AI consulting business: blog, ROI calc, email automation, Stripe
 - 🔐 **[Credential Management Console](./CREDENTIAL-CONSOLE-DOCS.md)** — Secure web vault with drag-and-drop ingestion, OCR screenshot extraction, key fragment display, rotation scheduling
 - 🌐 **[Domain Availability Checker](./check_domains.py)** — Namecheap API integration for bulk domain availability checking
 - 📊 **[Account Intelligence Engine](./incorta/)** — Automated email/transcript analysis for deal intelligence and competitive advantage
