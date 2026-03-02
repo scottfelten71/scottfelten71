@@ -21,72 +21,61 @@
 
 ## 🚀 Applications
 
-| | Service | Description |
-|--|---------|-------------|
-| 🎯 | **[UseCaseGen](https://app.usecasegen.app)** | AI-powered enterprise use case discovery — multi-model (GPT-4o, Gemini, Claude), 8 focus areas, auth system |
-| 🏢 | **[IAG Consulting Platform](https://intelligenceadvisorygroup.com)** | AI consulting business — blog, services, ROI calculator, email automation, Stripe payments |
-| 🤝 | **[Intelligent Agent Partners](https://intelligentagentpartners.com)** | Partner-facing consulting site |
-| 📊 | **[IAG Data Viewer / CRM](https://github.com/scottfelten71/tars-workspace/tree/main/projects/iag-data-viewer)** | Company & contact CRM — 471 companies, 437 contacts, 645 relationships |
-| 📈 | **[Customer 360 Dashboard](https://github.com/scottfelten71/tars-workspace/tree/main/vps-customer360)** | Account intelligence with deal tracking and forecasting |
-| 🎯 | **[GoalStack (ABM1)](https://github.com/scottfelten71/tars-workspace)** | 9-layer autonomous business framework — auto-build, reality check, opportunity triage pipeline |
-| 🔐 | **[Credential Management Console](https://github.com/scottfelten71/tars-workspace/tree/main/projects/credential-console)** | Secure credential vault — drag & drop, OCR screenshot extraction, rotation tracking, audit trail |
+- 🎯 **[UseCaseGen](https://app.usecasegen.app)** — AI-powered enterprise use case discovery — multi-model (GPT-4o, Gemini, Claude), 8 focus areas, auth system
+- 🏢 **[IAG Consulting Platform](https://intelligenceadvisorygroup.com)** — AI consulting business — blog, services, ROI calculator, email automation, Stripe payments
+- 🤝 **[Intelligent Agent Partners](https://intelligentagentpartners.com)** — Partner-facing consulting site
+- 📊 **[IAG Data Viewer / CRM](http://145.223.121.173:8009)** — Company & contact CRM — 471 companies, 437 contacts, 645 relationships ([source](https://github.com/scottfelten71/tars-workspace/tree/main/projects/iag-data-viewer))
+- 📈 **[Customer 360 Dashboard](http://145.223.121.173:8008)** — Account intelligence with deal tracking and forecasting ([source](https://github.com/scottfelten71/tars-workspace/tree/main/vps-customer360))
+- 🎯 **[GoalStack (ABM1)](http://145.223.121.173:8013)** — 9-layer autonomous business framework — auto-build, reality check, opportunity triage pipeline
+- 🔐 **[Credential Management Console](https://github.com/scottfelten71/tars-workspace/tree/main/projects/credential-console)** — Secure credential vault — drag & drop, OCR screenshot extraction, rotation tracking (localhost:8007)
 
 ## 📊 Intelligence & Dashboards
 
-| | Service | Description |
-|--|---------|-------------|
-| 🏗️ | **[Command Center](https://github.com/scottfelten71/tars-workspace/tree/main/vps-docs-site)** | MkDocs documentation hub — single source of truth (Material theme, self-hosted) |
-| 📡 | **Signal Tower** | AI/tech news aggregation + daily morning briefs with ElevenLabs audio narration |
-| 🤖 | **[TARS Ops Dashboard](https://github.com/scottfelten71/tars-workspace/tree/main/projects/tars-dashboard)** | Agent operations monitoring |
-| 💰 | **[Model Intelligence](https://github.com/scottfelten71/tars-workspace/tree/main/projects/model-monitor)** | LLM price monitoring and cost optimization across providers |
-| 📋 | **[Incorta Dashboard](https://github.com/scottfelten71/tars-workspace/tree/main/projects/incorta-dashboard)** | Sales intelligence for enterprise accounts |
+- 🏗️ **[Command Center](http://145.223.121.173:8001)** — MkDocs documentation hub — single source of truth ([source](https://github.com/scottfelten71/tars-workspace/tree/main/vps-docs-site))
+- 📡 **[Signal Tower](http://145.223.121.173:8007)** — AI/tech news aggregation + daily morning briefs with ElevenLabs audio narration
+- 🤖 **[TARS Ops Dashboard](http://145.223.121.173:8002)** — Agent operations monitoring ([source](https://github.com/scottfelten71/tars-workspace/tree/main/projects/tars-dashboard))
+- 💰 **[Model Intelligence](http://145.223.121.173:8011)** — LLM price monitoring and cost optimization across providers ([source](https://github.com/scottfelten71/tars-workspace/tree/main/projects/model-monitor))
+- 📋 **[Incorta Dashboard](http://145.223.121.173:8003)** — Sales intelligence for enterprise accounts ([source](https://github.com/scottfelten71/tars-workspace/tree/main/projects/incorta-dashboard))
+- 📈 **[Netdata Monitoring](http://145.223.121.173:19999)** — Real-time server metrics
 
 ## 🛠️ Tools & Utilities
 
-| | Tool | Description |
-|--|------|-------------|
-| 🤖 | **[Multi-LLM Protocol](https://github.com/scottfelten71/tars-workspace/tree/main/models-db)** | Cost-optimized AI model switching with voice commands across 8+ models |
-| 📝 | **Paste-to-MD** | Paste content → Markdown converter (self-hosted) |
-| 🌐 | **[Domain Checker](https://github.com/scottfelten71/tars-workspace/blob/main/check_domains.py)** | Namecheap API bulk domain availability checking |
-| 🔑 | **[KeyShare](https://github.com/scottfelten71/tars-workspace/tree/main/projects/keyshare)** | Credential sharing vault |
-| 🧮 | **[ROI Calculator](https://github.com/scottfelten71/tars-workspace/blob/main/roi-calculator.html)** | Interactive AI readiness and ROI assessment |
-| 📝 | **[AI Readiness Assessment](https://github.com/scottfelten71/tars-workspace/blob/main/ai-readiness-assessment.html)** | Self-service business AI readiness scoring |
-| 📧 | **[Email Processing Pipeline](https://github.com/scottfelten71/tars-workspace/tree/main/mailbox)** | Automated email ingestion and analysis |
-| 📊 | **[Account Intelligence Engine](https://github.com/scottfelten71/tars-workspace/tree/main/incorta)** | Email/transcript analysis for deal intelligence |
+- 🤖 **[Multi-LLM Protocol](https://github.com/scottfelten71/tars-workspace/tree/main/models-db)** — Cost-optimized AI model switching with voice commands across 8+ models
+- 📝 **[Paste-to-MD](http://145.223.121.173:8012)** — Paste content → Markdown converter
+- 🌐 **[Domain Checker](https://github.com/scottfelten71/tars-workspace/blob/main/check_domains.py)** — Namecheap API bulk domain availability checking
+- 🔑 **[KeyShare](https://github.com/scottfelten71/tars-workspace/tree/main/projects/keyshare)** — Credential sharing vault
+- 🧮 **[ROI Calculator](https://github.com/scottfelten71/tars-workspace/blob/main/roi-calculator.html)** — Interactive AI readiness and ROI assessment
+- 📝 **[AI Readiness Assessment](https://github.com/scottfelten71/tars-workspace/blob/main/ai-readiness-assessment.html)** — Self-service business AI readiness scoring
+- 📧 **[Email Processing Pipeline](https://github.com/scottfelten71/tars-workspace/tree/main/mailbox)** — Automated email ingestion and analysis
+- 📊 **[Account Intelligence Engine](https://github.com/scottfelten71/tars-workspace/tree/main/incorta)** — Email/transcript analysis for deal intelligence
 
 ## 🔬 Active Projects
 
-| Project | Status | Description |
-|---------|--------|-------------|
-| **AIStoryGen** | 🔬 Researching | Persona-driven AI content network — 10 AI personas running niche content sites (aistorygen.app) |
-| **GoalStack / ABM1** | ✅ Operational | 9-layer autonomous business model framework with interactive goal execution |
-| **Matrix Agent Coordination** | ✅ Operational | Multi-agent coordination via Element/Matrix (TARS + CASE) |
+- 🧬 **AIStoryGen** — Persona-driven AI content network — 10 AI personas running niche content sites (aistorygen.app)
+- ✅ **[GoalStack / ABM1](http://145.223.121.173:8013)** — 9-layer autonomous business model framework with interactive goal execution
+- ✅ **Matrix Agent Coordination** — Multi-agent coordination via Element/Matrix (TARS + CASE)
 
 ## ✍️ Blog Posts
 
-| Post | Topic |
-|------|-------|
-| 📰 [AI Consultant Roadmap](https://github.com/scottfelten71/tars-workspace/blob/main/blog-post-1-ai-consultant-roadmap.html) | Getting started as an AI consultant |
-| 🤔 [AI Consultant vs Tool](https://github.com/scottfelten71/tars-workspace/blob/main/blog-post-2-ai-consultant-vs-tool.html) | When to hire vs DIY |
-| 🎯 [Discovery Package](https://github.com/scottfelten71/tars-workspace/blob/main/blog-post-3-discovery-package.html) | The AI discovery engagement model |
-| 🤖 [Personal AI Agent](https://github.com/scottfelten71/tars-workspace/blob/main/blog-post-4-personal-ai-agent.html) | Building your first AI agent |
-| ⚠️ [Seven Deadly Mistakes](https://github.com/scottfelten71/tars-workspace/blob/main/blog-post-5-seven-deadly-mistakes.html) | Common AI implementation failures |
-| ⚖️ [AI Ethics Everyday](https://github.com/scottfelten71/tars-workspace/blob/main/blog-post-6-ai-ethics-everyday.html) | Practical AI ethics for business |
-| 🛠️ [Best AI Tools](https://github.com/scottfelten71/tars-workspace/blob/main/blog-post-7-best-ai-tools-consultants.html) | Curated tools for AI consultants |
+- 📰 **[AI Consultant Roadmap](https://github.com/scottfelten71/tars-workspace/blob/main/blog-post-1-ai-consultant-roadmap.html)** — Getting started as an AI consultant
+- 🤔 **[AI Consultant vs Tool](https://github.com/scottfelten71/tars-workspace/blob/main/blog-post-2-ai-consultant-vs-tool.html)** — When to hire vs DIY
+- 🎯 **[Discovery Package](https://github.com/scottfelten71/tars-workspace/blob/main/blog-post-3-discovery-package.html)** — The AI discovery engagement model
+- 🤖 **[Personal AI Agent](https://github.com/scottfelten71/tars-workspace/blob/main/blog-post-4-personal-ai-agent.html)** — Building your first AI agent
+- ⚠️ **[Seven Deadly Mistakes](https://github.com/scottfelten71/tars-workspace/blob/main/blog-post-5-seven-deadly-mistakes.html)** — Common AI implementation failures
+- ⚖️ **[AI Ethics Everyday](https://github.com/scottfelten71/tars-workspace/blob/main/blog-post-6-ai-ethics-everyday.html)** — Practical AI ethics for business
+- 🛠️ **[Best AI Tools](https://github.com/scottfelten71/tars-workspace/blob/main/blog-post-7-best-ai-tools-consultants.html)** — Curated tools for AI consultants
 
 ## 🖥️ Infrastructure
 
-| Machine | Role | Stack |
-|---------|------|-------|
-| **Mac Studio** | Primary dev, OpenClaw host | macOS arm64 |
-| **VPS** (Ubuntu 24.04) | 20+ production services | Node.js, Express, nginx, systemd, Let's Encrypt |
-| **MacBook Air M4** | Backup agent (CASE) | macOS, OpenClaw |
+- **Mac Studio** — Primary dev, OpenClaw host (macOS arm64)
+- **VPS** (Ubuntu 24.04) — 20+ production services: Node.js, Express, nginx, systemd, Let's Encrypt
+- **MacBook Air M4** — Backup agent (CASE)
 
-**Full registry:** [REGISTRY.md](https://github.com/scottfelten71/tars-workspace/blob/main/REGISTRY.md) — every port, credential, pattern, cron job, and data store.
+Full registry: [REGISTRY.md](https://github.com/scottfelten71/tars-workspace/blob/main/REGISTRY.md) — every port, credential, pattern, cron job, and data store.
 
 ## 🎵 Music
 
-🎵 **[Skillet Tour — "OR"](https://distrokid.com/hyperfollow/skillettour/or)** — Ambient album. Generative music + field recordings from the Pacific Northwest. Brian Eno lineage. Logic Pro + VCV Rack + COVID isolation.
+- 🎵 **[Skillet Tour — "OR"](https://distrokid.com/hyperfollow/skillettour/or)** — Ambient album. Generative music + field recordings from the Pacific Northwest. Brian Eno lineage. Logic Pro + VCV Rack + COVID isolation.
 
 ## 🤖 TARS
 
