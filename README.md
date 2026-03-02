@@ -21,8 +21,8 @@
 
 ## 🚀 Applications
 
-- 🎯 **UseCaseGen** — AI-powered enterprise use case discovery — multi-model (GPT-4o, Gemini, Claude), 8 focus areas, auth system — [service](https://app.usecasegen.app) · [dev](https://dev.usecasegen.app)
-- 🏢 **IAG Consulting Platform** — AI consulting business — blog, services, ROI calculator, email automation, Stripe payments — [service](https://intelligenceadvisorygroup.com) · [app](https://intelligenceadvisorygroup.com/app/)
+- 🎯 **UseCaseGen** — AI-powered enterprise use case discovery — [service](https://app.usecasegen.app) · [dev](https://dev.usecasegen.app)
+- 🏢 **IAG Consulting Platform** — AI consulting business — [service](https://intelligenceadvisorygroup.com) · [app](https://intelligenceadvisorygroup.com/app/)
 - 🤝 **Intelligent Agent Partners** — Partner-facing consulting site — [service](https://intelligentagentpartners.com)
 - 📊 **IAG Data Viewer / CRM** — Company & contact CRM — 471 companies, 437 contacts, 645 relationships — [service](http://145.223.121.173:8009)
 - 📈 **Customer 360 Dashboard** — Account intelligence with deal tracking and forecasting — [service](http://145.223.121.173:8008) · [source](https://github.com/scottfelten71/tars-workspace/tree/main/vps-customer360)
