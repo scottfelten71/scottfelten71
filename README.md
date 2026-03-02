@@ -21,39 +21,43 @@
 
 ## 🚀 Applications
 
-- 🎯 **[UseCaseGen](https://app.usecasegen.app)** — AI-powered enterprise use case discovery — multi-model
-- 🏢 **[IAG Consulting Platform](https://intelligenceadvisorygroup.com)** — AI consulting business — blog, services, ROI calculator, email automation, Stripe payments
-- 🤝 **[Intelligent Agent Partners](https://intelligentagentpartners.com)** — Partner-facing consulting site
-- 📊 **[IAG Data Viewer / CRM](http://145.223.121.173:8009)** — Company & contact CRM — 471 companies, 437 contacts, 645 relationships ([source](https://github.com/scottfelten71/tars-workspace/tree/main/projects/iag-data-viewer))
-- 📈 **[Customer 360 Dashboard](http://145.223.121.173:8008)** — Account intelligence with deal tracking and forecasting ([source](https://github.com/scottfelten71/tars-workspace/tree/main/vps-customer360))
-- 🎯 **[GoalStack (ABM1)](http://145.223.121.173:8013)** — 9-layer autonomous business framework — auto-build, reality check, opportunity triage pipeline
-- 🔐 **[Credential Management Console](https://github.com/scottfelten71/tars-workspace/tree/main/projects/credential-console)** — Secure credential vault — drag & drop, OCR screenshot extraction, rotation tracking (localhost:8007)
+- 🎯 **UseCaseGen** — AI-powered enterprise use case discovery — multi-model (GPT-4o, Gemini, Claude), 8 focus areas, auth system — [service](https://app.usecasegen.app) · [dev](https://dev.usecasegen.app)
+- 🏢 **IAG Consulting Platform** — AI consulting business — blog, services, ROI calculator, email automation, Stripe payments — [service](https://intelligenceadvisorygroup.com) · [app](https://intelligenceadvisorygroup.com/app/)
+- 🤝 **Intelligent Agent Partners** — Partner-facing consulting site — [service](https://intelligentagentpartners.com)
+- 📊 **IAG Data Viewer / CRM** — Company & contact CRM — 471 companies, 437 contacts, 645 relationships — [service](http://145.223.121.173:8009)
+- 📈 **Customer 360 Dashboard** — Account intelligence with deal tracking and forecasting — [service](http://145.223.121.173:8008) · [source](https://github.com/scottfelten71/tars-workspace/tree/main/vps-customer360)
+- 🎯 **GoalStack (ABM1)** — 9-layer autonomous business framework — auto-build, reality check, opportunity triage pipeline — [service](http://145.223.121.173:8013) · [source](https://github.com/scottfelten71/tars-workspace/tree/main/projects/goalstack)
+- 🔐 **Credential Management Console** — Secure credential vault — drag & drop, OCR screenshot extraction, rotation tracking (localhost only) — [source](https://github.com/scottfelten71/tars-workspace/tree/main/projects/credential-console)
 
 ## 📊 Intelligence & Dashboards
 
-- 🏗️ **[Command Center](http://145.223.121.173:8001)** — MkDocs documentation hub — single source of truth ([source](https://github.com/scottfelten71/tars-workspace/tree/main/vps-docs-site))
-- 📡 **[Signal Tower](http://145.223.121.173:8007)** — AI/tech news aggregation + daily morning briefs with ElevenLabs audio narration
-- 🤖 **[TARS Ops Dashboard](http://145.223.121.173:8002)** — Agent operations monitoring ([source](https://github.com/scottfelten71/tars-workspace/tree/main/projects/tars-dashboard))
-- 💰 **[Model Intelligence](http://145.223.121.173:8011)** — LLM price monitoring and cost optimization across providers ([source](https://github.com/scottfelten71/tars-workspace/tree/main/projects/model-monitor))
-- 📋 **[Incorta Dashboard](http://145.223.121.173:8003)** — Sales intelligence for enterprise accounts ([source](https://github.com/scottfelten71/tars-workspace/tree/main/projects/incorta-dashboard))
-- 📈 **[Netdata Monitoring](http://145.223.121.173:19999)** — Real-time server metrics
+- 🏗️ **Command Center** — MkDocs documentation hub — single source of truth (Material theme, self-hosted) — [service](http://145.223.121.173:8001) · [source](https://github.com/scottfelten71/tars-workspace/tree/main/vps-docs-site)
+- 📡 **Signal Tower** — AI/tech news aggregation + daily morning briefs with ElevenLabs audio narration — [service](http://145.223.121.173:8007)
+- 🤖 **TARS Ops Dashboard** — Agent operations monitoring — [service](http://145.223.121.173:8002)
+- 💰 **Model Intelligence** — LLM price monitoring and cost optimization across providers — [service](http://145.223.121.173:8011)
+- 📋 **Incorta Dashboard** — Sales intelligence for enterprise accounts — [service](http://145.223.121.173:8003)
+- 📈 **Netdata Monitoring** — Real-time server metrics — [service](http://145.223.121.173:19999)
 
 ## 🛠️ Tools & Utilities
 
-- 🤖 **[Multi-LLM Protocol](https://github.com/scottfelten71/tars-workspace/tree/main/models-db)** — Cost-optimized AI model switching with voice commands across 8+ models
-- 📝 **[Paste-to-MD](http://145.223.121.173:8012)** — Paste content → Markdown converter
-- 🌐 **[Domain Checker](https://github.com/scottfelten71/tars-workspace/blob/main/check_domains.py)** — Namecheap API bulk domain availability checking
-- 🔑 **[KeyShare](https://github.com/scottfelten71/tars-workspace/tree/main/projects/keyshare)** — Credential sharing vault
-- 🧮 **[ROI Calculator](https://github.com/scottfelten71/tars-workspace/blob/main/roi-calculator.html)** — Interactive AI readiness and ROI assessment
-- 📝 **[AI Readiness Assessment](https://github.com/scottfelten71/tars-workspace/blob/main/ai-readiness-assessment.html)** — Self-service business AI readiness scoring
-- 📧 **[Email Processing Pipeline](https://github.com/scottfelten71/tars-workspace/tree/main/mailbox)** — Automated email ingestion and analysis
-- 📊 **[Account Intelligence Engine](https://github.com/scottfelten71/tars-workspace/tree/main/incorta)** — Email/transcript analysis for deal intelligence
+- 🤖 **Multi-LLM Protocol** — Cost-optimized AI model switching with voice commands across 8+ models — [source](https://github.com/scottfelten71/tars-workspace/tree/main/models-db)
+- 📝 **Paste-to-MD** — Paste content → Markdown converter — [service](http://145.223.121.173:8012)
+- 🌐 **Domain Checker** — Namecheap API bulk domain availability checking — [source](https://github.com/scottfelten71/tars-workspace/blob/main/check_domains.py)
+- 🔑 **KeyShare** — Credential sharing vault — [service](http://145.223.121.173:8009)
+- 🧮 **ROI Calculator** — Interactive AI readiness and ROI assessment — [source](https://github.com/scottfelten71/tars-workspace/blob/main/roi-calculator.html)
+- 📝 **AI Readiness Assessment** — Self-service business AI readiness scoring — [source](https://github.com/scottfelten71/tars-workspace/blob/main/ai-readiness-assessment.html)
+- 📧 **Email Processing Pipeline** — Automated email ingestion and analysis — [source](https://github.com/scottfelten71/tars-workspace/tree/main/mailbox)
+- 📊 **Account Intelligence Engine** — Email/transcript analysis for deal intelligence
+- 🏗️ **Agent Architecture Explainer** — Visual explainer of agent architecture — [service](http://145.223.121.173:8005)
+- 📂 **Workspace File Server** — Browse workspace files via HTTP — [service](http://145.223.121.173:8006)
+- 🖥️ **Dashboard (generic)** — General dashboard — [service](http://145.223.121.173:8080)
+- 🌐 **Copilot Revolution** — Legacy site — [service](http://copilotrevolution.com)
 
 ## 🔬 Active Projects
 
 - 🧬 **AIStoryGen** — Persona-driven AI content network — 10 AI personas running niche content sites (aistorygen.app)
-- ✅ **[GoalStack / ABM1](http://145.223.121.173:8013)** — 9-layer autonomous business model framework with interactive goal execution
-- ✅ **Matrix Agent Coordination** — Multi-agent coordination via Element/Matrix (TARS + CASE)
+- ✅ **GoalStack / ABM1** — 9-layer autonomous business model framework with interactive goal execution — [service](http://145.223.121.173:8013) · [source](https://github.com/scottfelten71/tars-workspace/tree/main/projects/goalstack)
+- ✅ **Matrix Agent Coordination** — Multi-agent coordination via Element/Matrix (TARS + CASE) — [source](https://github.com/scottfelten71/tars-workspace/tree/main/projects/autonomous-sprints)
 
 ## ✍️ Blog Posts
 
@@ -71,7 +75,7 @@
 - **VPS** (Ubuntu 24.04) — 20+ production services: Node.js, Express, nginx, systemd, Let's Encrypt
 - **MacBook Air M4** — Backup agent (CASE)
 
-Full registry: [REGISTRY.md](https://github.com/scottfelten71/tars-workspace/blob/main/REGISTRY.md) — every port, credential, pattern, cron job, and data store.
+Full registry: **[REGISTRY.md](https://github.com/scottfelten71/tars-workspace/blob/main/REGISTRY.md)** — every port, credential, pattern, cron job, and data store.
 
 ## 🎵 Music
 
