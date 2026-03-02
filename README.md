@@ -21,7 +21,7 @@
 
 ## 🚀 Applications
 
-- 🎯 **[UseCaseGen](https://app.usecasegen.app)** — AI-powered enterprise use case discovery — multi-model (GPT-4o, Gemini, Claude), 8 focus areas, auth system
+- 🎯 **[UseCaseGen](https://app.usecasegen.app)** — AI-powered enterprise use case discovery — multi-model
 - 🏢 **[IAG Consulting Platform](https://intelligenceadvisorygroup.com)** — AI consulting business — blog, services, ROI calculator, email automation, Stripe payments
 - 🤝 **[Intelligent Agent Partners](https://intelligentagentpartners.com)** — Partner-facing consulting site
 - 📊 **[IAG Data Viewer / CRM](http://145.223.121.173:8009)** — Company & contact CRM — 471 companies, 437 contacts, 645 relationships ([source](https://github.com/scottfelten71/tars-workspace/tree/main/projects/iag-data-viewer))
