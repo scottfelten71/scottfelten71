@@ -55,7 +55,7 @@
 
 ## 🔬 Active Projects
 
-- 🧬 **AIStoryGen** — Persona-driven AI content network — 10 AI personas running niche content sites (aistorygen.app)
+- 🧬 **AIStoryGen** — Persona-driven AI content network — 10 AI personas running niche content sites (aistorygen.app) — [source](https://github.com/scottfelten71/tars-workspace/tree/main/projects/aistorygen)
 - ✅ **GoalStack / ABM1** — 9-layer autonomous business model framework with interactive goal execution — [service](http://145.223.121.173:8013) · [source](https://github.com/scottfelten71/tars-workspace/tree/main/projects/goalstack)
 - ✅ **Matrix Agent Coordination** — Multi-agent coordination via Element/Matrix (TARS + CASE) — [source](https://github.com/scottfelten71/tars-workspace/tree/main/projects/autonomous-sprints)
 
