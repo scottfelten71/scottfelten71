@@ -19,20 +19,35 @@
 
 ---
 
+## 🌐 scottfelten.com
+
+**[scottfelten.com](https://scottfelten.com)** — Personal showcase and client portal. Public landing page with tools showcase, authenticated portal with entitlement-based access to all platforms.
+
+---
+
+## ⚡ TAOS — TARS Agent Operating System
+
+The main project. A three-stack architecture for building, running, and scaling autonomous agent-powered businesses:
+
+- 🎯 **GoalStack** — 9-layer goal execution framework with AI auto-build, reality checking, and evidence-gated steps
+- 👥 **TeamStack** — Agent team org chart (Teams → Roles → Skills → Tools) with tag-based capability matching
+- ⚡ **ExecutionStack** — 6-layer pipeline: Goal Decomposition → Team Routing → Agent Assignment → Work Execution → Verification → Feedback
+
 ## 🚀 Applications
 
+- 🌐 **[scottfelten.com](https://scottfelten.com)** — Personal showcase + authenticated client portal
 - 🎯 **UseCaseGen** — AI-powered enterprise use case discovery — [service](https://app.usecasegen.app) · [dev](https://dev.usecasegen.app)
 - 🏢 **IAG Consulting Platform** — AI consulting business — [service](https://intelligenceadvisorygroup.com) · [app](https://intelligenceadvisorygroup.com/app/)
 - 🤝 **Intelligent Agent Partners** — Partner-facing consulting site — [service](https://intelligentagentpartners.com)
 - 📊 **IAG Data Viewer / CRM** — Company & contact CRM — 471 companies, 437 contacts, 645 relationships
 - 📈 **Customer 360 Dashboard** — Account intelligence with deal tracking and forecasting
-- 🎯 **GoalStack (ABM1)** — 9-layer autonomous business framework — auto-build, reality check, opportunity triage pipeline
+- 🎯 **GoalStack** — 9-layer autonomous business framework — auto-build, reality check, opportunity triage pipeline
 - 🔐 **Credential Management Console** — Secure credential vault — drag & drop, OCR screenshot extraction, rotation tracking
 
 ## 📊 Intelligence & Dashboards
 
 - 🏗️ **Command Center** — MkDocs documentation hub — single source of truth (Material theme, self-hosted)
-- 📡 **Signal Tower** — AI/tech news aggregation + daily morning briefs with ElevenLabs audio narration
+- 📡 **Signal Tower** — AI/tech news aggregation + daily morning briefs with audio narration
 - 🤖 **TARS Ops Dashboard** — Agent operations monitoring
 - 💰 **Model Intelligence** — LLM price monitoring and cost optimization across providers
 - 📋 **Incorta Dashboard** — Sales intelligence for enterprise accounts
@@ -41,6 +56,7 @@
 ## 🛠️ Tools & Utilities
 
 - 🤖 **Multi-LLM Protocol** — Cost-optimized AI model switching with voice commands across 8+ models
+- 📝 **Research Queue** — Content intake system with bookmarklet, sub-agent processing, creator-based organization
 - 📝 **Transcripts** — Centralized video/social media transcript repository (YouTube, TikTok, Instagram, X) — powered by Supadata API
 - 📝 **Paste-to-MD** — Paste content → Markdown converter
 - 🌐 **Domain Checker** — Namecheap API bulk domain availability checking
@@ -53,6 +69,7 @@
 
 ## 🔬 Active Projects
 
+- ⚡ **TAOS** — TARS Agent Operating System — three-stack architecture for autonomous AI businesses
 - 🧬 **AIStoryGen** — Persona-driven AI content network — 10 AI personas running niche content sites
 - ✅ **GoalStack / ABM1** — 9-layer autonomous business model framework with interactive goal execution
 - ✅ **Matrix Agent Coordination** — Multi-agent coordination via Element/Matrix (TARS + CASE)
@@ -85,6 +102,7 @@ Specializes in: business system development, account intelligence, infrastructur
 
 ## Connect
 
+- 🌐 **Website:** [scottfelten.com](https://scottfelten.com)
 - 📧 **Email:** scott@scottfelten.com
 - 💼 **LinkedIn:** [scottfelten](https://linkedin.com/in/scottfelten)
 - 🎵 **Music:** [Skillet Tour on DistroKid](https://distrokid.com/hyperfollow/skillettour/or)
